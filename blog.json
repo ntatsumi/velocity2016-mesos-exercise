@@ -21,7 +21,7 @@
     "HAPROXY_GROUP": "external",
     "HAPROXY_0_VHOST": "http://ec2-52-41-53-4.us-west-2.compute.amazonaws.com/"
   },
-  "instances": 1,
+  "instances": 2,
   "cpus": 0.1,
   "mem": 128,
   "healthChecks": [
